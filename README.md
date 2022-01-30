@@ -1,2 +1,2 @@
 # InterestCalculator
-http://www.tanneroates.com/InterestCalculator/
+https://tanneroates2.github.io/InterestCalculator/
